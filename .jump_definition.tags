@@ -1,0 +1,625 @@
+[
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\hello\\main.lua", 
+        "lineNum": 0, 
+        "funcName": "load"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\hello\\main.lua", 
+        "lineNum": 3, 
+        "funcName": "draw"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\main.lua", 
+        "lineNum": 4, 
+        "funcName": "load"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\main.lua", 
+        "lineNum": 53, 
+        "funcName": "update"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\main.lua", 
+        "lineNum": 57, 
+        "funcName": "draw"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 3, 
+        "funcName": "newSpriteBatch"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 9, 
+        "funcName": "newCanvas"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 15, 
+        "funcName": "newImage"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 21, 
+        "funcName": "newQuad"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 27, 
+        "funcName": "getCanvas"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 33, 
+        "funcName": "setCanvas"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 39, 
+        "funcName": "clear"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 45, 
+        "funcName": "push"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 51, 
+        "funcName": "origin"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 57, 
+        "funcName": "scale"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 63, 
+        "funcName": "translate"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 69, 
+        "funcName": "pop"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 75, 
+        "funcName": "draw"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 81, 
+        "funcName": "rectangle"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 87, 
+        "funcName": "getColor"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 93, 
+        "funcName": "setColor"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 99, 
+        "funcName": "line"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 105, 
+        "funcName": "polygon"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 111, 
+        "funcName": "points"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 117, 
+        "funcName": "getWidth"
+    }, 
+    {
+        "className": "graphics", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\graphics.lua", 
+        "lineNum": 124, 
+        "funcName": "getHeight"
+    }, 
+    {
+        "type": 2, 
+        "varName": "_LICENSE", 
+        "lineNum": 7, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua"
+    }, 
+    {
+        "type": 2, 
+        "varName": "_URL", 
+        "lineNum": 8, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua"
+    }, 
+    {
+        "type": 2, 
+        "varName": "_VERSION", 
+        "lineNum": 9, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua"
+    }, 
+    {
+        "type": 2, 
+        "varName": "_DESCRIPTION", 
+        "lineNum": 10, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua"
+    }, 
+    {
+        "className": "STI", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 58, 
+        "funcName": "__call"
+    }, 
+    {
+        "className": "STI", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 63, 
+        "funcName": "flush"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 74, 
+        "funcName": "init"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 130, 
+        "funcName": "groupAppendToList"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 154, 
+        "funcName": "loadPlugins"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 173, 
+        "funcName": "setTiles"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 244, 
+        "funcName": "setLayer"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 301, 
+        "funcName": "setTileData"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 331, 
+        "funcName": "setObjectData"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 340, 
+        "funcName": "setObjectCoordinates"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 394, 
+        "funcName": "getLayerTilePosition"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 455, 
+        "funcName": "addNewLayerTile"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 494, 
+        "funcName": "set_batches"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 595, 
+        "funcName": "setSpriteBatches"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 608, 
+        "funcName": "setObjectSpriteBatches"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 680, 
+        "funcName": "addCustomLayer"
+    }, 
+    {
+        "className": "layer", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 690, 
+        "funcName": "draw"
+    }, 
+    {
+        "className": "layer", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 691, 
+        "funcName": "update"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 702, 
+        "funcName": "convertToCustomLayer"
+    }, 
+    {
+        "className": "layer", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 716, 
+        "funcName": "draw"
+    }, 
+    {
+        "className": "layer", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 717, 
+        "funcName": "update"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 724, 
+        "funcName": "removeLayer"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 781, 
+        "funcName": "update"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 815, 
+        "funcName": "draw"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 848, 
+        "funcName": "drawLayer"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 857, 
+        "funcName": "drawTileLayer"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 882, 
+        "funcName": "drawObjectLayer"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 954, 
+        "funcName": "drawImageLayer"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 969, 
+        "funcName": "resize"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 982, 
+        "funcName": "setFlippedGID"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 1056, 
+        "funcName": "getLayerProperties"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 1071, 
+        "funcName": "getTileProperties"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 1085, 
+        "funcName": "getObjectProperties"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 1111, 
+        "funcName": "setLayerTile"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 1145, 
+        "funcName": "swapTile"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 1209, 
+        "funcName": "convertTileToPixel"
+    }, 
+    {
+        "className": "Map", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\init.lua", 
+        "lineNum": 1247, 
+        "funcName": "convertPixelToTile"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 4, 
+        "funcName": "format_path"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 23, 
+        "funcName": "compensate"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 45, 
+        "funcName": "cache_image"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 52, 
+        "funcName": "get_tiles"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 66, 
+        "funcName": "get_decompressed_data"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 79, 
+        "funcName": "convert_ellipse_to_polygon"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 141, 
+        "funcName": "rotate_vertex"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 156, 
+        "funcName": "convert_isometric_to_screen"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 169, 
+        "funcName": "hex_to_color"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 181, 
+        "funcName": "pixel_function"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 193, 
+        "funcName": "fix_transparent_color"
+    }, 
+    {
+        "className": "utils", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\learn\\sti\\utils.lua", 
+        "lineNum": 205, 
+        "funcName": "deepCopy"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\shooter\\main.lua", 
+        "lineNum": 2, 
+        "funcName": "load"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\shooter\\main.lua", 
+        "lineNum": 23, 
+        "funcName": "keyreleased"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\shooter\\main.lua", 
+        "lineNum": 30, 
+        "funcName": "update"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\shooter\\main.lua", 
+        "lineNum": 83, 
+        "funcName": "draw"
+    }, 
+    {
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\shooter\\main.lua", 
+        "lineNum": 108, 
+        "funcName": "shoot"
+    }, 
+    {
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\shooter\\main.lua", 
+        "lineNum": 119, 
+        "funcName": "CheckCollision"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\trajectory\\conf.lua", 
+        "lineNum": 0, 
+        "funcName": "conf"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\trajectory\\main.lua", 
+        "lineNum": 0, 
+        "funcName": "load"
+    }, 
+    {
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\trajectory\\main.lua", 
+        "lineNum": 50, 
+        "funcName": "lovedraw"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\trajectory\\main.lua", 
+        "lineNum": 62, 
+        "funcName": "update"
+    }, 
+    {
+        "className": "love", 
+        "type": 1, 
+        "path": "D:\\Work\\Love2D\\LearnLove2D\\trajectory\\main.lua", 
+        "lineNum": 63, 
+        "funcName": "draw"
+    }
+]

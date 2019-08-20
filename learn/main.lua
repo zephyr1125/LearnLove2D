@@ -14,6 +14,7 @@ function love.load()
 	for k, object in pairs(map.objects) do
 		if object.name == "Player" then
 			player = object
+			print("found player")
 			break
 		end
 	end
@@ -22,12 +23,12 @@ function love.load()
 	local sprite = love.graphics.newImage("player.png")
 	layer.player = {
 		sprite = sprite,
-		x      = player.x,
-		y      = player.y,
-		ox     = sprite:getWidth() / 2,
-		oy     = sprite:getHeight() / 1.35
+		x = player.x,
+		y = player.y,
+		ox = sprite:getWidth() / 2,
+		oy = sprite:getHeight() / 1.35
 	}
-
+	
 	-- Draw player
 	layer.draw = function(self)
 		love.graphics.draw(
@@ -40,6 +41,7 @@ function love.load()
 			self.player.ox,
 			self.player.oy
 		)
+		print("drawed")
 
 		-- Temporarily draw a point at our location so we know
 		-- that our sprite is offset properly

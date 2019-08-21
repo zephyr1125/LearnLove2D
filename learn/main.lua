@@ -7,14 +7,13 @@ function love.load()
 	map = sti("desert.lua")
 
 	-- Create new dynamic data layer called "Sprites" as the 8th layer
-	local layer = map:addCustomLayer("Sprites", 8)
+	local layer = map:addCustomLayer("Sprites")
 
 	-- Get player spawn object
 	local player
 	for k, object in pairs(map.objects) do
 		if object.name == "Player" then
 			player = object
-			print("found player")
 			break
 		end
 	end
@@ -41,7 +40,6 @@ function love.load()
 			self.player.ox,
 			self.player.oy
 		)
-		print("drawed")
 
 		-- Temporarily draw a point at our location so we know
 		-- that our sprite is offset properly

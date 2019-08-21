@@ -19,21 +19,24 @@ function love.load()
 	end
 
 	-- Create player object
-	local sprite = love.graphics.newImage("player.png")
+	local sprite = love.graphics.newImage("sprites/player.png")
 	layer.player = {
 		sprite = sprite,
 		x = player.x,
 		y = player.y,
-		ox = sprite:getWidth() / 2,
-		oy = sprite:getHeight() / 1.35
+		ox = sprite:getWidth() / 8,
+		oy = sprite:getHeight() / 4
 	}
 	
 	-- Draw player
 	layer.draw = function(self)
+        img = self.player.sprite
+        quad = love.graphics.newQuad(0, 0, 16, 32, img:getDimensions())
 		love.graphics.draw(
-			self.player.sprite,
-			math.floor(self.player.x),
-			math.floor(self.player.y),
+            img,
+            quad,
+            math.floor(self.player.x),
+            math.floor(self.player.y),
 			0,
 			1,
 			1,
@@ -43,8 +46,8 @@ function love.load()
 
 		-- Temporarily draw a point at our location so we know
 		-- that our sprite is offset properly
-		love.graphics.setPointSize(5)
-		love.graphics.points(math.floor(self.player.x), math.floor(self.player.y))
+		--love.graphics.setPointSize(5)
+		--love.graphics.points(math.floor(self.player.x), math.floor(self.player.y))
 	end
 
 	-- Remove unneeded object layer
